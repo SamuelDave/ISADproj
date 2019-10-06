@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body style="height: 120px; width: 274px; margin-left: 217px; margin-top: 49px">
-    <form id="frmLogin" runat="server" style="background-color: #66FF99; width: 332px; height: 176px;">
+    <form id="frmLogin" runat="server" style="background-color: #66FF99; width: 332px; height: 176px; margin-left: 45px; margin-top: 0px;">
        
 &nbsp;<p style="width: 281px; margin-left: 33px">
     

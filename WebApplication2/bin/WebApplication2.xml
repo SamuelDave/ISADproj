@@ -6,7 +6,32 @@ WebApplication2
 </name>
 </assembly>
 <members>
-<member name="F:WebApplication2.Log_in.frmLogin">
+<member name="P:WebApplication2.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:WebApplication2.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:WebApplication2.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:WebApplication2.Log_in.frmLogin">
 	<summary>
 frmLogin control.
 </summary>
@@ -54,31 +79,19 @@ btnCancel control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="P:WebApplication2.My.MyWebExtension.Computer">
+</member><member name="P:WebApplication2.My.Resources.Resources.ResourceManager">
 	<summary>
- Returns information about the host computer.
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.User">
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WebApplication2.My.Resources.Resources.Culture">
 	<summary>
- Returns information for the current Web user.
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Request">
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WebApplication2.My.Resources.Resources">
 	<summary>
- Returns Request object.
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Response">
-	<summary>
- Returns Response object.
- </summary>
-</member><member name="P:WebApplication2.My.MyWebExtension.Log">
-	<summary>
- Returns the Asp log object.
- </summary>
-</member><member name="T:WebApplication2.My.MyWebExtension">
-	<summary>
- Module used to define the properties that are available in the My Namespace for Web projects.
- </summary>
-	<remarks></remarks>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

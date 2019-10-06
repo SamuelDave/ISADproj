@@ -7,7 +7,7 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-<Assembly: AssemblyTitle("WebApplication2")> 
+<Assembly: AssemblyTitle("BBDISS")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Microsoft")> 
 <Assembly: AssemblyProduct("WebApplication2")> 
