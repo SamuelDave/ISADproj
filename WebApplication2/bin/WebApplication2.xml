@@ -6,7 +6,23 @@ WebApplication2
 </name>
 </assembly>
 <members>
-<member name="P:WebApplication2.My.MyWebExtension.Computer">
+<member name="F:WebApplication2.Welcome.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication2.Welcome.lblName">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:WebApplication2.My.MyWebExtension.Computer">
 	<summary>
  Returns information about the host computer.
  </summary>

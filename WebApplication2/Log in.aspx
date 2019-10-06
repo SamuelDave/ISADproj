@@ -16,11 +16,12 @@
     </p>
         <p style="width: 279px; margin-left: 34px">
     
-         Password :<asp:TextBox ID="txtPassword" runat="server" Height="16px" style="margin-left: 24px" Width="152px"></asp:TextBox>
+Password :<asp:TextBox ID="txtPassword" runat="server" Height="16px" style="margin-left: 24px" Width="152px"></asp:TextBox>
     </p>
        
         <p>
             <asp:Button ID="btnLogin" runat="server" style="margin-left: 73px" Text="Log in" Width="95px" />
+
             <asp:Button ID="btnCancel" runat="server" style="margin-left: 0px" Text="Cancel" Width="95px" />
         </p>
     </form>
